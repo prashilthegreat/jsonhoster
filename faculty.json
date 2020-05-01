@@ -1,83 +1,83 @@
 [
   {
     "id": 0, 
-    "name": "CRD\r\n", 
+    "name": "CRD", 
     "subjects": "Maths", 
     "phone": "98457456", 
     "email": "ksbbjksd@hbjasdjk.com"
   }, 
   {
     "id": 1, 
-    "name": "Shibu\r\n", 
+    "name": "Shibu", 
     "subjects": "English", 
     "phone": "89445321312", 
     "email": "gfjhcgdhj@tyfyuft.com"
   }, 
   {
     "id": 2, 
-    "name": "Bhupi\r\n", 
+    "name": "Bhupi", 
     "subjects": "DBMS", 
     "phone": "98457456", 
     "email": "ksbbjksd@hbjasdjk.com"
   }, 
   {
     "id": 3, 
-    "name": "Saroj Aryal\r\n", 
+    "name": "Saroj Aryal", 
     "subjects": "DBA", 
     "phone": "89445321312", 
     "email": "gfjhcgdhj@tyfyuft.com"
   }, {
     "id": 4, 
-    "name": "Sukraj Limbu\r\n", 
+    "name": "Sukraj Limbu", 
     "subjects": "Ecommerce", 
     "phone": "98457456", 
     "email": "ksbbjksd@hbjasdjk.com"
   }, 
   {
     "id": 5, 
-    "name": "Prawesh Dhungana\r\n", 
+    "name": "Prawesh Dhungana", 
     "subjects": "Crypto", 
     "phone": "89445321312", 
     "email": "gfjhcgdhj@tyfyuft.com"
   },
   {
     "id": 6, 
-    "name": "Harendra Raj Bista\r\n", 
+    "name": "Harendra Raj Bista", 
     "subjects": "Java", 
     "phone": "98457456", 
     "email": "ksbbjksd@hbjasdjk.com"
   }, 
   {
     "id": 7, 
-    "name": "Prashil Koirala\r\n", 
+    "name": "Prashil Koirala", 
     "subjects": "Calculus", 
     "phone": "89445321312", 
     "email": "gfjhcgdhj@tyfyuft.com"
   }, 
   {
     "id": 8, 
-    "name": "Samar Adhikari\r\n", 
+    "name": "Samar Adhikari", 
     "subjects": "Fail Subject", 
     "phone": "98457456", 
     "email": "ksbbjksd@hbjasdjk.com"
   }, 
   {
     "id": 9, 
-    "name": "Ritiz Karkee\r\n", 
+    "name": "Ritiz Karkee", 
     "subjects": "Computer Network", 
     "phone": "89445321312", 
     "email": "gfjhcgdhj@tyfyuft.com"
   }, 
   {
     "id": 10, 
-    "name": "Prastut Dahal\r\n", 
+    "name": "Prastut Dahal", 
     "subjects": "TOC", 
     "phone": "98457456", 
     "email": "ksbbjksd@hbjasdjk.com"
   }, 
   {
     "id": 11, 
-    "name": "KRishna\r\n", 
+    "name": "KRishna", 
     "subjects": "C++", 
     "phone": "89445321312", 
     "email": "gfjhcgdhj@tyfyuft.com"
