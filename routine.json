@@ -161,7 +161,7 @@
     },
     {
         "day": "Friday",
-        "routine": [
+        "routine": 
             {
                 "subject": {
                     "0": {
@@ -191,6 +191,6 @@
                     }
                 }
             }
-        ]
+        
     }
 ]
