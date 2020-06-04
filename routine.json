@@ -1,0 +1,196 @@
+[
+    {
+        "day": "Sunday",
+        "routine": {
+            "subject": {
+                "0": {
+                    "name": "Linear Algebra",
+                    "timing": "6:30-7:30",
+                    "teacher": "CRD"
+                },
+                "1": {
+                    "name": "Linear Algebra",
+                    "timing": "7:30-8:30",
+                    "teacher": "CRD"
+                },
+                "2": {
+                    "name": "Linear Algebra",
+                    "timing": "8:30-9:30",
+                    "teacher": "CRD"
+                },
+                "3": {
+                    "name": "Linear Algebra",
+                    "timing": "9:30-10:30",
+                    "teacher": "CRD"
+                },
+                "4": {
+                    "name": "Linear Algebra",
+                    "timing": "10:30-11:30",
+                    "teacher": "CRD"
+                }
+            }
+        }
+    },
+    {
+        "day": "Monday",
+        "routine": {
+            "subject": {
+                "0": {
+                    "name": "Linear Algebra",
+                    "timing": "6:30-7:30",
+                    "teacher": "CRD"
+                },
+                "1": {
+                    "name": "Linear Algebra",
+                    "timing": "7:30-8:30",
+                    "teacher": "CRD"
+                },
+                "2": {
+                    "name": "Linear Algebra",
+                    "timing": "8:30-9:30",
+                    "teacher": "CRD"
+                },
+                "3": {
+                    "name": "Linear Algebra",
+                    "timing": "9:30-10:30",
+                    "teacher": "CRD"
+                },
+                "4": {
+                    "name": "Linear Algebra",
+                    "timing": "10:30-11:30",
+                    "teacher": "CRD"
+                }
+            }
+        }
+    },
+    {
+        "day": "Tuesday",
+        "routine": {
+            "subject": {
+                "0": {
+                    "name": "Linear Algebra",
+                    "timing": "6:30-7:30",
+                    "teacher": "CRD"
+                },
+                "1": {
+                    "name": "Linear Algebra",
+                    "timing": "7:30-8:30",
+                    "teacher": "CRD"
+                },
+                "2": {
+                    "name": "Linear Algebra",
+                    "timing": "8:30-9:30",
+                    "teacher": "CRD"
+                },
+                "3": {
+                    "name": "Linear Algebra",
+                    "timing": "9:30-10:30",
+                    "teacher": "CRD"
+                },
+                "4": {
+                    "name": "Linear Algebra",
+                    "timing": "10:30-11:30",
+                    "teacher": "CRD"
+                }
+            }
+        }
+    },
+    {
+        "day": "Wednesday",
+        "routine": {
+            "subject": {
+                "0": {
+                    "name": "Linear Algebra",
+                    "timing": "6:30-7:30",
+                    "teacher": "CRD"
+                },
+                "1": {
+                    "name": "Linear Algebra",
+                    "timing": "7:30-8:30",
+                    "teacher": "CRD"
+                },
+                "2": {
+                    "name": "Linear Algebra",
+                    "timing": "8:30-9:30",
+                    "teacher": "CRD"
+                },
+                "3": {
+                    "name": "LA",
+                    "timing": "9:30-10:30",
+                    "teacher": "CRD"
+                },
+                "4": {
+                    "name": "Linear Algebra",
+                    "timing": "10:30-11:30",
+                    "teacher": "CRD"
+                }
+            }
+        }
+    },
+    {
+        "day": "Thursday",
+        "routine": {
+            "subject": {
+                "0": {
+                    "name": "Linear Algebra",
+                    "timing": "6:30-7:30",
+                    "teacher": "CRD"
+                },
+                "1": {
+                    "name": "Linear Algebra",
+                    "timing": "7:30-8:30",
+                    "teacher": "CRD"
+                },
+                "2": {
+                    "name": "Linear Algebra",
+                    "timing": "8:30-9:30",
+                    "teacher": "CRD"
+                },
+                "3": {
+                    "name": "Linear Algebra",
+                    "timing": "9:30-10:30",
+                    "teacher": "CRD"
+                },
+                "4": {
+                    "name": "Linear Algebra",
+                    "timing": "10:30-11:30",
+                    "teacher": "CRD"
+                }
+            }
+        }
+    },
+    {
+        "day": "Friday",
+        "routine": [
+            {
+                "subject": {
+                    "0": {
+                        "name": "Linear Algebra",
+                        "timing": "6:30-7:30",
+                        "teacher": "CRD"
+                    },
+                    "1": {
+                        "name": "Linear Algebra",
+                        "timing": "7:30-8:30",
+                        "teacher": "CRD"
+                    },
+                    "2": {
+                        "name": "Linear Algebra",
+                        "timing": "8:30-9:30",
+                        "teacher": "CRD"
+                    },
+                    "3": {
+                        "name": "Linear Algebra",
+                        "timing": "9:30-10:30",
+                        "teacher": "CRD"
+                    },
+                    "4": {
+                        "name": "Linear Algebra",
+                        "timing": "10:30-11:30",
+                        "teacher": "CRD"
+                    }
+                }
+            }
+        ]
+    }
+]
