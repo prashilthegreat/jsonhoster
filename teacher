@@ -1,0 +1,20 @@
+ {
+            "teacher": {
+                "id": 3,
+                "name": "Bhupi Saud",
+                "email": "teacher@teacher.com",
+                "image": "http://fyp.misfitsnepal.com/uploads/users/teacher@teacher.com.png",
+                "type": "1",
+                "contact_no": "9854123121",
+                "address": "kathmandu",
+                "created_at": "2020-05-11 03:29:40",
+                "updated_at": "2020-06-05 16:50:45"
+            
+            "subjects": [
+               "C Programming",   
+              "IIT",     
+              "Digital Logic",
+              "Discrete Structure",
+            ]
+          },
+        }
