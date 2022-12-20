@@ -1,6 +1,6 @@
 {
   "ios": {
-    "latest": "1.0.0",
+    "latest": "1.0.0+1",
     "minimum": "0.0.1",
     "url": "http://example.com/myAppUpdate",
     "enabled": true
